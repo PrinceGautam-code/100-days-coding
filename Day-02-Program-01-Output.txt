@@ -1,0 +1,6 @@
+ Output:
+
+Enter length: 10
+Enter breadth: 5
+Area = 50.00
+Perimeter = 30.00
