@@ -1,0 +1,6 @@
+Enter Principal: 10000
+Enter Rate: 5
+Enter Time: 2
+
+Simple Interest = 1000.00
+Compound Interest = 1025.00
