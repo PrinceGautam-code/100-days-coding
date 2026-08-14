@@ -1,0 +1,2 @@
+Enter time in seconds: 3665
+Time = 01:01:05
