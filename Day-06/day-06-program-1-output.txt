@@ -1,0 +1,2 @@
+Enter an integer: 8
+8 is Even.
