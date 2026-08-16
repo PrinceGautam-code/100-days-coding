@@ -1,0 +1,6 @@
+Enter a character: e
+e is a vowel.
+
+
+Enter a character: k
+k is a consonant.
