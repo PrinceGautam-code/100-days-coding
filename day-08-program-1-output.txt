@@ -1,0 +1,9 @@
+Enter a character: A
+Uppercase alphabet
+
+Enter a character: #
+Special character
+
+
+Enter a character: 7
+Digit
