@@ -1,0 +1,2 @@
+Enter three side lengths: 8 8 6
+Isosceles triangle
