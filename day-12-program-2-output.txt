@@ -1,0 +1,2 @@
+Enter electricity units consumed: 80
+Electricity Bill = Rs. 400.00
