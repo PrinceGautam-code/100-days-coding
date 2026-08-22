@@ -1,0 +1,4 @@
+Enter first number: 15
+Enter an operator (+, -, *, /, %): +
+Enter second number: 10
+Result = 25
