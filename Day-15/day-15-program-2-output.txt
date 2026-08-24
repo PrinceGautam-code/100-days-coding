@@ -1,2 +1,0 @@
-Enter a number: 12345
-Reversed number = 54321
