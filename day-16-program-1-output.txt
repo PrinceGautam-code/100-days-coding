@@ -1,0 +1,2 @@
+Enter a decimal number: 25
+Binary representation: 11001
