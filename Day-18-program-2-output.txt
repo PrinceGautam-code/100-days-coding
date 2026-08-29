@@ -1,1 +1,2 @@
-git push origin main
+Enter two numbers: 12 18
+HCF (GCD) = 6
