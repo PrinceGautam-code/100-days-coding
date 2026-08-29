@@ -1,0 +1,2 @@
+Enter a binary number: 101101
+1's Complement: 010010
