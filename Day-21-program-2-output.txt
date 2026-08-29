@@ -1,0 +1,2 @@
+Enter a positive number: 20
+20 is not a Perfect Number.
