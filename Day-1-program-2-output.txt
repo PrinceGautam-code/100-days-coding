@@ -1,0 +1,6 @@
+Enter first number: 20
+Enter second number: 5
+Sum = 25
+Difference = 15
+Product = 100
+Quotient = 4
