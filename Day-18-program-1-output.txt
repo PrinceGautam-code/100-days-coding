@@ -1,0 +1,2 @@
+Enter a number: 24
+Factors of 24 are: 1 2 3 4 6 8 12 24
