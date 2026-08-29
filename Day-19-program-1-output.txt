@@ -1,0 +1,2 @@
+Enter two numbers: 12 18
+LCM = 36
