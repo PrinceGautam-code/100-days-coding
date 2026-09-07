@@ -1,0 +1,8 @@
+Enter the number of elements: 5
+Enter 5 elements:
+10
+20
+30
+40
+50
+Sum of array elements = 150
