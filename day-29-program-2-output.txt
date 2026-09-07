@@ -1,0 +1,9 @@
+Enter the number of elements: 5
+Enter 5 elements:
+10
+25
+5
+40
+15
+Maximum element = 40
+Minimum element = 5
