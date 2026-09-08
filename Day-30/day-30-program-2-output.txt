@@ -1,0 +1,7 @@
+Enter the number of elements: 7
+Enter 7 elements:
+5 -2 0 8 -6 0 3
+
+Positive elements = 3
+Negative elements = 2
+Zero elements = 2
