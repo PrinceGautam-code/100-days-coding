@@ -1,0 +1,5 @@
+Enter the number of elements: 6
+Enter 6 elements:
+10 15 20 25 30 35
+Even numbers = 3
+Odd numbers = 3
