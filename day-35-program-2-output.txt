@@ -1,0 +1,2 @@
+Enter number of positions to rotate: 2
+Array after right rotation: 40 50 10 20 30
