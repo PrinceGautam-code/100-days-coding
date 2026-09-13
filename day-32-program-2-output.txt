@@ -1,0 +1,3 @@
+Enter an integer number: 12233345
+Most occurring digit is: 3
+It occurs 3 times.
