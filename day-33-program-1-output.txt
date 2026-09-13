@@ -1,0 +1,2 @@
+Enter element to search: 30
+Element found at position 3
