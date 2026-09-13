@@ -1,0 +1,2 @@
+Enter element to delete: 30
+Array after deletion: 10 20 40 50
