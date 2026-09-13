@@ -1,0 +1,3 @@
+Enter element to insert: 25
+Enter position: 3
+Array after insertion: 10 20 25 30 40 50
