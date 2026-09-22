@@ -1,0 +1,2 @@
+Enter a string: Hello World C Programming
+String after replacing spaces: Hello-World-C-Programming
