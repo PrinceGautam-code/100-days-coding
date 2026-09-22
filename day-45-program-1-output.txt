@@ -1,3 +1,0 @@
-Enter a string: programming
-Enter the character to find: r
-Frequency of 'r' = 2

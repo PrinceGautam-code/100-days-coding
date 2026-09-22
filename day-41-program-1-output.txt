@@ -1,2 +1,0 @@
-Enter a string: Hello World
-Number of characters = 11

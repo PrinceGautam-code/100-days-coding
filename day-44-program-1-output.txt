@@ -1,4 +1,0 @@
-Enter a string: Hello 123@World!
-Spaces = 1
-Digits = 3
-Special characters = 2

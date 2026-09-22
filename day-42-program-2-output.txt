@@ -1,2 +1,0 @@
-Enter a lowercase string: hello world
-Uppercase string: HELLO WORLD

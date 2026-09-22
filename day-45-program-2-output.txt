@@ -1,2 +1,0 @@
-Enter a string: Hello World
-String after toggling case: hELLO wORLD
