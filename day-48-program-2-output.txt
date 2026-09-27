@@ -1,0 +1,2 @@
+Enter a sentence: I love C programming
+Sentence after reversing each word: I evol C gnimmargorp
