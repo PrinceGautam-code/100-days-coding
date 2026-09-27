@@ -1,0 +1,3 @@
+Enter first string: ABCD
+Enter second string: CDAB
+Strings are rotations of each other.
