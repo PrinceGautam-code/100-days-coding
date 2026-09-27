@@ -1,0 +1,2 @@
+Enter your full name: Prince gautam
+Formatted name: P. gautam
