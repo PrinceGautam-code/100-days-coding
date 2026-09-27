@@ -1,0 +1,2 @@
+Enter a sentence: I love computer programming
+Longest word: programming
