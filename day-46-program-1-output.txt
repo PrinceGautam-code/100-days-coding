@@ -1,0 +1,2 @@
+Enter a string: Hello Prince
+String after removing vowels: Hll Prnc
