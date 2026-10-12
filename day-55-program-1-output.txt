@@ -1,0 +1,4 @@
+Enter number of elements: 7
+Enter array elements:
+2 2 1 1 2 2 2
+Majority element: 2
