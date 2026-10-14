@@ -1,0 +1,2 @@
+First occurrence index: 1
+Last occurrence index: 3

@@ -1,0 +1,8 @@
+Enter a string: abc
+All substrings are:
+a
+ab
+abc
+b
+bc
+c
