@@ -1,5 +1,0 @@
-Enter number of elements: 6
-Enter sorted array elements:
-1 2 4 4 6 8
-Enter x: 3
-Index of ceil: 2

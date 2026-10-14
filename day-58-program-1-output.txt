@@ -1,5 +1,0 @@
-Enter number of elements: 4
-Enter array elements:
-1 2 3 4
-Answer array:
-24, 12, 8, 6

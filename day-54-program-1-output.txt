@@ -1,2 +1,0 @@
-Enter a positive integer: 8
-Pivot integer: 6

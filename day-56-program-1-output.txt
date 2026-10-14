@@ -1,5 +1,0 @@
-Enter number of elements: 5
-Enter array elements:
-4 5 2 10 8
-Next greater elements:
-5, 10, 10, -1, -1
