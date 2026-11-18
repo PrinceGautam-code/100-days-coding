@@ -1,0 +1,5 @@
+Employee Details:
+Name: Rahul
+ID: 101
+Salary: 35000.00
+Joining Date: 15/08/2025
