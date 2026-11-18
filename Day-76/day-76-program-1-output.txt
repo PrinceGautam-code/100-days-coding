@@ -1,0 +1,3 @@
+info.txt
+Hello World
+Welcome to C Programming.
